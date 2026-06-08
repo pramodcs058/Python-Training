@@ -1,4 +1,4 @@
-# Lab 10: Build a Unit Converter with Structured CSV and JSON Logging
+# Lab 10: Build a Unit Converter
 
 ## Lab Objective
 
